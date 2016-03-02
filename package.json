@@ -5,13 +5,12 @@
   "main": "cast-base.js",
   "scripts": {
     "start": "meteor run",
-    "test": "meteor test-app --driver-package practicalmeteor:mocha"
   },
   "dependencies": {
     "meteor-node-stubs": "~0.2.0"
   },
   "keywords": [],
-  "author": "",
+  "author": "Floyd Price",
   "license": "MIT",
   "description": ""
 }
